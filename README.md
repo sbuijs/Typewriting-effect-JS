@@ -9,8 +9,7 @@
 </div>
 <br/>
 <br/>
-
-<img width="1552" alt="simple-guessing-game" src="https://user-images.githubusercontent.com/1607627/165161199-55d1c5bd-8ce8-4287-8c11-8f24d87e1366.png">
+<img width="1552" alt="Screenshot 2022-04-27 at 12 45 05" src="https://user-images.githubusercontent.com/1607627/165501479-a6beabeb-19db-48c8-a5ed-c8015d9a6475.png">
 
 ## Built With
 - Vanilla Javascript
