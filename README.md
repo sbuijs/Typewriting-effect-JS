@@ -18,9 +18,8 @@
 ## Contact
 
 Stephanie Buijs - buijs.s@gmail.com<br/>
-Project Link: [
-https://sbuijs.github.io/Typewriting-effect-JS/](
-https://sbuijs.github.io/Typewriting-effect-JS/)<br/>
+Project Link: [https://github.com/sbuijs/Typewriting-effect-JS](https://github.com/sbuijs/Typewriting-effect-JS)<br/>
+
 
 
 ## Acknowledgments
